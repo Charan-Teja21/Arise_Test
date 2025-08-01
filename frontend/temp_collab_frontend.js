@@ -8,3 +8,6 @@ console.log("This is a placeholder for frontend collaboration features.");
 
 //Vinay
 console.log("I am Vinay, working on git")
+
+// vinay branch
+console.log("Commit after creating a new branch for Vinay.");
